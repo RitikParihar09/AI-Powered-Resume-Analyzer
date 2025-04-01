@@ -142,12 +142,5 @@ Ritik Parihar
 ### **⚡ Happy Coding!** 🎉
 ```
 
----
 
-### Improvements in This Version:
-1. **Added badges for style** like the demo button.
-2. **Made the sections clearer** with titles and explanations.
-3. **Included author information** to credit yourself.
-4. **Formatted it to look cleaner** and more professional on GitHub.
-5. **Links and buttons** that can be added to your actual deployment for easy navigation.
 
